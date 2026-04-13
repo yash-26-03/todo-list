@@ -42,7 +42,7 @@ A clean, minimal, and responsive **Todo List** application built with **React** 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/my-project.git
+   git clone https://github.com/yash-26-03/my-project.git
    cd my-project
    ```
 
