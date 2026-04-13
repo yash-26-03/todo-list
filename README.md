@@ -1,4 +1,4 @@
-# iTask — Manage Your Tasks in One Place
+# TASKDON3 — Manage Your Tasks 
 
 A clean, minimal, and responsive **Todo List** application built with **React** and **Vite**. Add, edit, delete, and mark tasks as complete — all persisted in your browser's `localStorage` so nothing is lost on refresh.
 
